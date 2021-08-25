@@ -1,9 +1,9 @@
 
 #' Says Aloah to a friend
 #'
-#' @param name a character
-#' @param color a character
-#' @param print a logical
+#' @param name - a character
+#' @param color - a character
+#' @param print - a logical
 #'
 #' @return (character) An aloha message
 #' @export
